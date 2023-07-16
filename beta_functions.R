@@ -1,3 +1,5 @@
+# This module has functions for simulations from the beta distribution
+
 # Mean
 Beta.mean<-function(alpha,beta){
   Beta.mean<-(5*alpha + beta)/(alpha + beta)
