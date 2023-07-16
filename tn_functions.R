@@ -1,4 +1,4 @@
-# This module has functions needed for simulations from trucncated normal distributions
+# This module has functions needed for simulations from truncated normal distributions
 
 # Libraries
 library(Metrics)
